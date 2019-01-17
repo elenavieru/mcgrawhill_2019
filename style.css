@@ -10,7 +10,7 @@
 }
 
 @font-face {
-	font-family: 'APEXNEW-BOOK.OTF';
+	font-family: 'APEXNEW-BOOK';
 	src: url(fuentes/APEXNEW-BOOK.OTF) format("opentype");
 }
 
@@ -582,7 +582,7 @@ body:not(.edit) .slider-indicators {
 
 .bck-title-1 {
     color: #009FE3;
-    font-size: 2rem;
+    font-size: 3rem;
     font-family: 'APEXNEW-BOOK'
 }
 
