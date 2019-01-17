@@ -896,12 +896,13 @@ body:not(.edit) .slider-indicators {
 
 .bck-box.bck-box-3 .bck-content {
 	padding: 5px;
+	border-bottom: 2px solid #59C6F2;
 }
 
 .bck-box.bck-box-3 .bck-title {
 	padding: 5px;
 	color: #59C6F2;
-	font-size: 3rem;
+	font-size: 4rem;
 	font-family: 'SUBROC-REGULAR';
 }
 
