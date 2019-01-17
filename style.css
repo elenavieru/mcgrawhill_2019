@@ -10,8 +10,8 @@
 }
 
 @font-face {
-	font-family: 'MarkinLTPro-UltraBold';
-	src: url(fuentes/MarkinLTPro-UltraBold.otf) format("opentype");
+	font-family: 'NEUTRAFACE2TEXT-LIGHT';
+	src: url(fuentes/NEUTRAFACE2TEXT-LIGHT.OTF) format("opentype");
 }
 
 @font-face {
@@ -31,6 +31,7 @@ body {
 	height: 100vh;
 	font-size: 1.7rem;
 	font-weight: 300;
+	font-family: 'NEUTRAFACE2TEXT-LIGHT';
 }
 
 .body_clase .content-wrapper,
@@ -274,7 +275,6 @@ body.is_app #actividad .class_slide {
 #actividad .content .header .slide_number{
 	color: #009FE3;
     font-size: 6rem;
-    font-weight: 600;
     font-family: 'APEXNEW-BOLD';
 }
 
