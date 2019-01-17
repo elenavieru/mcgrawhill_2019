@@ -20,8 +20,8 @@
 }
 
 @font-face {
-	font-family: 'AvenirLTPro-Medium';
-	src: url(fuentes/AvenirLTPro-Medium.otf) format("opentype");
+	font-family: 'SUBROC-REGULAR';
+	src: url(fuentes/SUBROC-REGULAR.OTF) format("opentype");
 }
 
 @font-face {
@@ -885,6 +885,29 @@ body:not(.edit) .slider-indicators {
 	color: #9ac61e;
 	margin-right: 10px;
 }
+
+
+/*caja interesa*/
+
+.bck-box.bck-box-3 {
+	background: #fff;
+	text-align: left;
+}
+
+.bck-box.bck-box-3 .bck-content {
+	border: 0;
+	padding: 10px 25px;
+}
+
+.bck-box.bck-box-3 .bck-title {
+	padding: 10px 25px;
+	border: 0;
+	color: #59C6F2;
+	font-size: 1.8rem;
+	font-weight: bold;
+	font-family: 'SUBROC-REGULAR';
+}
+
 
 #actividad .content .bck-box.bck-box-2 .header.bck-title .title {
 	display: inline-block;
