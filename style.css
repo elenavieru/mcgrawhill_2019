@@ -5,8 +5,8 @@
 }
 
 @font-face {
-	font-family: 'FuturaLTPro-Bold';
-	src: url(fuentes/FuturaLTPro-Bold.otf) format("opentype");
+	font-family: 'APEXNEW-BOLD';
+	src: url(fuentes/APEXNEW-BOLD.OTF) format("opentype");
 }
 
 @font-face {
@@ -275,7 +275,7 @@ body.is_app #actividad .class_slide {
 	color: #009FE3;
     font-size: 6rem;
     font-weight: 600;
-    font-family: 'APEXNEW-LIGHT';
+    font-family: 'APEXNEW-BOLD';
 }
 
 .slide_main input {
