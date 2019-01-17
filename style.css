@@ -920,12 +920,20 @@ body:not(.edit) .slider-indicators {
 }
 
 .bck-box.bck-box-4 .bck-title {
-	padding: 5px;
+	padding: 5px 5px 5px 50px;
 	color: #59C6F2;
-	font-size: 4rem;
+	font-size: 2.5rem;
 	font-family: 'APEXNEW-MEDIUMITALIC';
 }
 
+.bck-box.bck-box-4 .bck-title:before {
+    content: " ";
+    position: relative;
+    padding: 10px;
+    background-image: url(imagenes/c-actividades.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
 
 
 #actividad .content .bck-box.bck-box-2 .header.bck-title .title {
