@@ -27,6 +27,7 @@
 				{ name: 'Caja 1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-1' } },
 				{ name: 'Caja 2', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-2' } },
 				{ name: 'Caja Interesa', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-3' } },
+				{ name: 'Caja Actividades', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-4' } },
 
 				{ name: 'Tabla', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table'} },
 				{ name: 'Celda 1', element: 'td', attributes: { 'class': 'bck-td bck-td-1'} },
