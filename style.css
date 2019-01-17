@@ -25,8 +25,8 @@
 }
 
 @font-face {
-	font-family: 'andy_bold_italic';
-	src: url(fonts/AndyStd-BoldItalic.otf) format("opentype");
+	font-family: 'APEXNEW-MEDIUMITALIC';
+	src: url(fuentes/APEXNEW-MEDIUMITALIC.OTF) format("opentype");
 }
 
 
@@ -923,7 +923,7 @@ body:not(.edit) .slider-indicators {
 	padding: 5px;
 	color: #59C6F2;
 	font-size: 4rem;
-	font-family: 'SUBROC-REGULAR';
+	font-family: 'APEXNEW-MEDIUMITALIC';
 }
 
 
