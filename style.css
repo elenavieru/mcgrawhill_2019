@@ -10,6 +10,11 @@
 }
 
 @font-face {
+	font-family: 'APEXNEW-BOOK.OTF';
+	src: url(fuentes/APEXNEW-BOOK.OTF) format("opentype");
+}
+
+@font-face {
 	font-family: 'NEUTRAFACE2TEXT-LIGHT';
 	src: url(fuentes/NEUTRAFACE2TEXT-LIGHT.OTF) format("opentype");
 }
@@ -203,10 +208,6 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active,
 #actividad .content .header {
 	border: none;
 }
-
-
-
-
 
 input, button, select, textarea {
 	padding-left: 0;
@@ -578,22 +579,13 @@ body:not(.edit) .slider-indicators {
 	background-color: transparent;
 }
 
-.bck-title {
-	border-bottom: 4px solid #eee;
-    color: #9acb1e;
-    font-size: 2.1rem;
-    font-weight: bold;
-}
 
 .bck-title-1 {
-    color: #6f6a66;
+    color: #009FE3;
+    font-size: 2rem;
+    font-family: 'APEXNEW-BOOK'
 }
 
-.bck-title-1:before {
-	content: '\f101';
-	margin-right: 10px;
-	font-family: 'FontAwesome';
-}
 
 .bck-title-3 {
     font-size: 1.7rem;
