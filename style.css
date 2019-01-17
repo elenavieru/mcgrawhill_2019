@@ -1,3 +1,30 @@
+/* Fonts */
+@font-face {
+	font-family: 'APEXNEW-LIGHT';
+	src: url(fuentes/APEXNEW-LIGHT.OTF) format("opentype");
+}
+
+@font-face {
+	font-family: 'FuturaLTPro-Bold';
+	src: url(fuentes/FuturaLTPro-Bold.otf) format("opentype");
+}
+
+@font-face {
+	font-family: 'MarkinLTPro-UltraBold';
+	src: url(fuentes/MarkinLTPro-UltraBold.otf) format("opentype");
+}
+
+@font-face {
+	font-family: 'AvenirLTPro-Medium';
+	src: url(fuentes/AvenirLTPro-Medium.otf) format("opentype");
+}
+
+@font-face {
+	font-family: 'andy_bold_italic';
+	src: url(fonts/AndyStd-BoldItalic.otf) format("opentype");
+}
+
+
 /*General */
 
 body {
@@ -241,12 +268,14 @@ body.is_app #actividad .class_slide {
 	color: #009FE3;
 	font-size: 4rem;
 	font-weight: 100;
+	font-family: 'APEXNEW-LIGHT';
 }
 
 #actividad .content .header .slide_number{
 	color: #009FE3;
     font-size: 6rem;
     font-weight: 600;
+    font-family: 'APEXNEW-LIGHT';
 }
 
 .slide_main input {
