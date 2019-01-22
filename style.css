@@ -591,12 +591,14 @@ body:not(.edit) .slider-indicators {
 	color: #009FE3;
 	font-family: 'SUBROC-REGULAR';
 	font-size: 5rem;
+	border-bottom: 1px solid #009FE3;
 }
 
 .bck-title-5{
 	color: #3EA535;
 	font-family: 'SUBROC-REGULAR';
 	font-size: 5rem;
+	border-bottom: 1px solid #3EA535;
 }
 
 
