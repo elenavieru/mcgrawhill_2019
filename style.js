@@ -16,6 +16,9 @@
 				{ name: 'Título 1', element: 'h2', attributes: { 'class': 'bck-title bck-title-1'} },
 				{ name: 'Título 2', element: 'h3', attributes: { 'class': 'bck-title bck-title-2'} },
 				{ name: 'Título 3', element: 'h3', attributes: { 'class': 'bck-title bck-title-3'} },
+				{ name: 'Mind map', element: 'h3', attributes: { 'class': 'bck-title bck-title-4'} },
+				{ name: 'Mapa conceptual', element: 'h3', attributes: { 'class': 'bck-title bck-title-5'} },
+
 
 				{ name: 'Énfasis', element: 'span', attributes: { 'class': 'bck-enfasis'} },
 
@@ -28,6 +31,7 @@
 				{ name: 'Caja 2', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-2' } },
 				{ name: 'Caja Interesa', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-3' } },
 				{ name: 'Caja Actividades', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-4' } },
+				{ name: 'Caja Colores', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-5' } },
 
 				{ name: 'Tabla', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table'} },
 				{ name: 'Celda 1', element: 'td', attributes: { 'class': 'bck-td bck-td-1'} },
