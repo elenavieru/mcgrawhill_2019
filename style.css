@@ -626,6 +626,8 @@ body:not(.edit) .slider-indicators {
     font-family: 'SUBROC-REGULAR';
     font-size: 6rem;
     color: #A3DBF7;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
 }
 
 /*LISTAS DESORDENADAS*/
