@@ -953,13 +953,19 @@ body:not(.edit) .slider-indicators {
 
 /*caja colores*/
 
-.bck-box.bck-box-5 {
-    border: 2px solid #E6007E;
-    border-radius: 15px;
-}
+
 
 .bck-box.bck-box-5 .bck-content{
 	padding: 5px;
+	border: 2px solid #E6007E;
+    border-radius: 15px;
+}
+
+.bck-box.bck-box-5 .bck-title:before{
+	content: " ";
+    position: relative;
+    padding: 11px;
+    background: red;
 }
 
 
