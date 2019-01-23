@@ -18,6 +18,7 @@
 				{ name: 'Título 3', element: 'h3', attributes: { 'class': 'bck-title bck-title-3'} },
 				{ name: 'Mind map', element: 'h3', attributes: { 'class': 'bck-title bck-title-4'} },
 				{ name: 'Mapa conceptual', element: 'h3', attributes: { 'class': 'bck-title bck-title-5'} },
+				{ name: 'Sección final', element: 'h3', attributes: { 'class': 'bck-title bck-title-6'} },
 
 
 				{ name: 'Énfasis', element: 'span', attributes: { 'class': 'bck-enfasis'} },
