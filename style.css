@@ -771,7 +771,6 @@ body:not(.edit) .slider-indicators {
 	max-width: 100%;
 	margin-bottom: 20px;
     text-align: left;
-	background: #F3F4E2;
 }
 
 .bck-box.center {
@@ -950,6 +949,17 @@ body:not(.edit) .slider-indicators {
     background-repeat: no-repeat;
     right: 35px;
     top: 55px;
+}
+
+/*caja colores*/
+
+.bck-box.bck-box-5 {
+    border: 2px solid #E6007E;
+    border-radius: 15px;
+}
+
+.bck-box.bck-box-5 .bck-content{
+	padding: 5px;
 }
 
 
