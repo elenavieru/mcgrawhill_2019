@@ -644,7 +644,7 @@ body:not(.edit) .slider-indicators {
     width: fit-content;
     font-family: 'SUBROC-REGULAR';
     font-size: 6rem;
-    color: #A3DBF7;
+    color: #F5B6D3;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
 }
@@ -662,7 +662,7 @@ body:not(.edit) .slider-indicators {
     width: fit-content;
     font-family: 'SUBROC-REGULAR';
     font-size: 6rem;
-    color: #A3DBF7;
+    color: #FFF7B3;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
 }
@@ -680,7 +680,7 @@ body:not(.edit) .slider-indicators {
     width: fit-content;
     font-family: 'SUBROC-REGULAR';
     font-size: 6rem;
-    color: #A3DBF7;
+    color: #C2DBB1;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
 }
