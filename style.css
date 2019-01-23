@@ -621,7 +621,11 @@ body:not(.edit) .slider-indicators {
 	background: -ms-radial-gradient(center, ellipse cover, rgba(3,159,225,1) 0%, rgba(3,159,225,1) 15%, rgba(3,159,225,1) 31%, rgba(3,159,225,1) 44%, rgba(3,159,225,1) 51%, rgba(3,159,225,1) 56%, rgba(0,140,199,1) 100%);
 	background: radial-gradient(ellipse at center, rgba(3,159,225,1) 0%, rgba(3,159,225,1) 15%, rgba(3,159,225,1) 31%, rgba(3,159,225,1) 44%, rgba(3,159,225,1) 51%, rgba(3,159,225,1) 56%, rgba(0,140,199,1) 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#039fe1', endColorstr='#008cc7', GradientType=1 );
-
+    padding: 15px 15px 5px 10px;
+    width: fit-content;
+    font-family: 'SUBROC-REGULAR';
+    font-size: 6rem;
+    color: #A3DBF7;
 }
 
 /*LISTAS DESORDENADAS*/
