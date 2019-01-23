@@ -964,8 +964,10 @@ body:not(.edit) .slider-indicators {
 .bck-box.bck-box-5 .bck-title:before{
 	content: " ";
     position: relative;
-    padding: 13px 70px;
-    left: 45%;
+    padding: 15px 90px;
+    left: 42%;
+    top: 45px;
+    z-index: 999;
     background-image: url(imagenes/img_colores.png);
     background-repeat: no-repeat;
     background-size: contain;
