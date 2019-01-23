@@ -18,7 +18,10 @@
 				{ name: 'Título 3', element: 'h3', attributes: { 'class': 'bck-title bck-title-3'} },
 				{ name: 'Mind map', element: 'h3', attributes: { 'class': 'bck-title bck-title-4'} },
 				{ name: 'Mapa conceptual', element: 'h3', attributes: { 'class': 'bck-title bck-title-5'} },
-				{ name: 'Sección final', element: 'h3', attributes: { 'class': 'bck-title bck-title-6'} },
+				{ name: 'Sección final azul', element: 'h3', attributes: { 'class': 'bck-title bck-title-6'} },
+				{ name: 'Sección final rosa', element: 'h3', attributes: { 'class': 'bck-title bck-title-7'} },
+				{ name: 'Sección final amarillo', element: 'h3', attributes: { 'class': 'bck-title bck-title-8'} },
+				{ name: 'Sección final verde', element: 'h3', attributes: { 'class': 'bck-title bck-title-9'} },
 
 
 				{ name: 'Énfasis', element: 'span', attributes: { 'class': 'bck-enfasis'} },
