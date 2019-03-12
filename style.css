@@ -1054,12 +1054,12 @@ body:not(.edit) .slider-indicators {
 	padding: 15px;
 	color: #fff;
 	background: rgba(144,193,20,1);
-	background: -moz-linear-gradient(left, rgba(144,193,20,1) 0%, rgba(144,193,20,0.14) 86%, rgba(144,193,20,0.06) 94%, rgba(144,193,20,0.03) 97%, rgba(144,193,20,0) 100%);
-	background: -webkit-gradient(left top, right top, color-stop(0%, rgba(144,193,20,1)), color-stop(86%, rgba(144,193,20,0.14)), color-stop(94%, rgba(144,193,20,0.06)), color-stop(97%, rgba(144,193,20,0.03)), color-stop(100%, rgba(144,193,20,0)));
-	background: -webkit-linear-gradient(left, rgba(144,193,20,1) 0%, rgba(144,193,20,0.14) 86%, rgba(144,193,20,0.06) 94%, rgba(144,193,20,0.03) 97%, rgba(144,193,20,0) 100%);
-	background: -o-linear-gradient(left, rgba(144,193,20,1) 0%, rgba(144,193,20,0.14) 86%, rgba(144,193,20,0.06) 94%, rgba(144,193,20,0.03) 97%, rgba(144,193,20,0) 100%);
-	background: -ms-linear-gradient(left, rgba(144,193,20,1) 0%, rgba(144,193,20,0.14) 86%, rgba(144,193,20,0.06) 94%, rgba(144,193,20,0.03) 97%, rgba(144,193,20,0) 100%);
-	background: linear-gradient(to right, rgba(144,193,20,1) 0%, rgba(144,193,20,0.14) 86%, rgba(144,193,20,0.06) 94%, rgba(144,193,20,0.03) 97%, rgba(144,193,20,0) 100%);
+	background: -moz-linear-gradient(left, rgba(144,193,20,1) 0%, rgba(144,193,20,0.59) 86%, rgba(144,193,20,0.55) 94%, rgba(144,193,20,0.53) 97%, rgba(144,193,20,0.52) 100%);
+	background: -webkit-gradient(left top, right top, color-stop(0%, rgba(144,193,20,1)), color-stop(86%, rgba(144,193,20,0.59)), color-stop(94%, rgba(144,193,20,0.55)), color-stop(97%, rgba(144,193,20,0.53)), color-stop(100%, rgba(144,193,20,0.52)));
+	background: -webkit-linear-gradient(left, rgba(144,193,20,1) 0%, rgba(144,193,20,0.59) 86%, rgba(144,193,20,0.55) 94%, rgba(144,193,20,0.53) 97%, rgba(144,193,20,0.52) 100%);
+	background: -o-linear-gradient(left, rgba(144,193,20,1) 0%, rgba(144,193,20,0.59) 86%, rgba(144,193,20,0.55) 94%, rgba(144,193,20,0.53) 97%, rgba(144,193,20,0.52) 100%);
+	background: -ms-linear-gradient(left, rgba(144,193,20,1) 0%, rgba(144,193,20,0.59) 86%, rgba(144,193,20,0.55) 94%, rgba(144,193,20,0.53) 97%, rgba(144,193,20,0.52) 100%);
+	background: linear-gradient(to right, rgba(144,193,20,1) 0%, rgba(144,193,20,0.59) 86%, rgba(144,193,20,0.55) 94%, rgba(144,193,20,0.53) 97%, rgba(144,193,20,0.52) 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#90c114', endColorstr='#90c114', GradientType=1 );
 }
 
