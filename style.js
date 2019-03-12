@@ -38,6 +38,7 @@
 				{ name: 'Caja Colores', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-5' } },
 				{ name: 'Caja Inicio Degradado', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-6' } },
 				{ name: 'Caja Descubre', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-7' } },
+				{ name: 'Caja Ciencia', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-8' } },
 		
 
 				{ name: 'Tabla', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table'} },
