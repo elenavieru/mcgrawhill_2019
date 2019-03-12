@@ -1032,6 +1032,7 @@ body:not(.edit) .slider-indicators {
 	padding: 15px;
 	border: 2px solid #E6007E;
     border-radius: 15px;
+    color: #E6007E;
 }
 
 .bck-box.bck-box-5 .bck-title:before{
