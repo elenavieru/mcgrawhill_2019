@@ -1028,7 +1028,6 @@ body:not(.edit) .slider-indicators {
 /*caja colores*/
 
 
-
 .bck-box.bck-box-5 .bck-content{
 	padding: 15px;
 	border: 2px solid #E6007E;
@@ -1046,6 +1045,16 @@ body:not(.edit) .slider-indicators {
     background-repeat: no-repeat;
     background-size: contain;
 
+}
+
+
+/*caja inicio degradado*/
+
+
+.bck-box.bck-box-6 .bck-content{
+	padding: 15px;
+	border: 2px solid #E6007E;
+    border-radius: 15px;
 }
 
 
