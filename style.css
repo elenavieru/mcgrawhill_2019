@@ -1033,6 +1033,7 @@ body:not(.edit) .slider-indicators {
 	border: 2px solid #E6007E;
     border-radius: 15px;
     color: #E6007E;
+    background: #F9F1E8;
 }
 
 .bck-box.bck-box-5 .bck-title:before{
