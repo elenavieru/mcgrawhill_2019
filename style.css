@@ -1044,12 +1044,10 @@ body:not(.edit) .slider-indicators {
     background-image: url(imagenes/img_colores.png);
     background-repeat: no-repeat;
     background-size: contain;
-
 }
 
 
 /*caja inicio degradado*/
-
 
 .bck-box.bck-box-6 .bck-content{
 	padding: 15px;
