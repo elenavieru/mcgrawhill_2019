@@ -1064,6 +1064,26 @@ body:not(.edit) .slider-indicators {
 }
 
 
+/*caja descubre*/
+
+.bck-box.bck-box-3 {
+	background: transparent;
+	text-align: left;
+}
+
+.bck-box.bck-box-3 .bck-content {
+	padding: 5px;
+	border-bottom: 2px solid #F5C899;
+}
+
+.bck-box.bck-box-3 .bck-title {
+	padding: 5px;
+	color: #F5C899;
+	font-size: 4rem;
+	font-family: 'SUBROC-REGULAR';
+}
+
+
 #actividad .content .bck-box.bck-box-2 .header.bck-title .title {
 	display: inline-block;
 }
