@@ -24,6 +24,11 @@
 }
 
 @font-face {
+	font-family: 'NEUTRAFACE2TEXT-BOLD';
+	src: url(fuentes/NEUTRAFACE2TEXT-BOLD.OTF) format("opentype");
+}
+
+@font-face {
 	font-family: 'SUBROC-REGULAR';
 	src: url(fuentes/SUBROC-REGULAR.OTF) format("opentype");
 }
@@ -773,7 +778,7 @@ body:not(.edit) .slider-indicators {
 	text-align: right;
 	color: #9ACB1E;
     font-size: 1.9rem;
-    font-family: 'NEUTRAFACE2TEXT-BOOKITALIC';
+    font-family: 'NEUTRAFACE2TEXT-BOLD';
     font-weight: normal;
 }
 
