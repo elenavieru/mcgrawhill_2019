@@ -1145,25 +1145,6 @@ body:not(.edit) .slider-indicators {
 	font-family: 'APEXNEW-MEDIUMITALIC';
 }
 
-/*caja actividades*/
-
-.bck-box.bck-box-10 {
-	background: #fff;
-	text-align: left;
-}
-
-.bck-box.bck-box-10 .bck-content {
-	padding: 5px;
-	border-bottom: 2px solid #99CF15;
-}
-
-.bck-box.bck-box-10 .bck-title {
-	padding: 5px;
-	color: #99CF15;
-	font-size: 2.5rem;
-	font-family: 'APEXNEW-MEDIUMITALIC';
-}
-
 
 
 #actividad .content .bck-box.bck-box-2 .header.bck-title .title {
