@@ -1106,6 +1106,26 @@ body:not(.edit) .slider-indicators {
 	font-family: 'SUBROC-REGULAR';
 }
 
+/*caja reto*/
+
+.bck-box.bck-box-9 {
+	background: #fff;
+	text-align: left;
+}
+
+.bck-box.bck-box-9 .bck-content {
+	padding: 5px;
+	border-bottom: 2px solid #994F24;
+}
+
+.bck-box.bck-box-9 .bck-title {
+	padding: 5px;
+	color: #BC885E;
+	font-size: 4rem;
+	font-family: 'SUBROC-REGULAR';
+}
+
+
 
 #actividad .content .bck-box.bck-box-2 .header.bck-title .title {
 	display: inline-block;
