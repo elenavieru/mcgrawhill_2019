@@ -22,6 +22,7 @@
 				{ name: 'Sección final rosa', element: 'h3', attributes: { 'class': 'bck-title bck-title-7'} },
 				{ name: 'Sección final amarillo', element: 'h3', attributes: { 'class': 'bck-title bck-title-8'} },
 				{ name: 'Sección final verde', element: 'h3', attributes: { 'class': 'bck-title bck-title-9'} },
+				{ name: 'Sección final marrón', element: 'h3', attributes: { 'class': 'bck-title bck-title-10'} },
 
 
 				{ name: 'Énfasis', element: 'span', attributes: { 'class': 'bck-enfasis'} },
