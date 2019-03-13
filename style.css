@@ -694,6 +694,17 @@ body:not(.edit) .slider-indicators {
     border-bottom-right-radius: 20px;
 }
 
+.bck-title-10{
+	background: #8C431C;
+    padding: 15px 15px 5px 10px;
+    width: fit-content;
+    font-family: 'SUBROC-REGULAR';
+    font-size: 6rem;
+    color: #D2AD8B;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
 
 /*LISTAS DESORDENADAS*/
 
