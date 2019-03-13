@@ -30,6 +30,7 @@
 }
 
 
+
 /*General */
 
 body {
@@ -1115,14 +1116,14 @@ body:not(.edit) .slider-indicators {
 
 .bck-box.bck-box-9 .bck-content {
 	padding: 5px;
-	border-bottom: 2px solid #994F24;
+	border-bottom: 2px solid #E4664B;
 }
 
 .bck-box.bck-box-9 .bck-title {
 	padding: 5px;
-	color: #BC885E;
+	color: #E4664B;
 	font-size: 4rem;
-	font-family: 'SUBROC-REGULAR';
+	font-family: 'APEXNEW-MEDIUMITALIC';
 }
 
 
