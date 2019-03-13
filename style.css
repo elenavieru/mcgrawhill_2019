@@ -777,9 +777,10 @@ body:not(.edit) .slider-indicators {
 	width: 20px;
 	text-align: right;
 	color: #9ACB1E;
-    font-size: 1.9rem;
+    font-size: 2.5rem;
     font-family: 'NEUTRAFACE2TEXT-BOLD';
     font-weight: normal;
+    top: -2px;
 }
 
 #actividad .content .texto_curso .bck-ol-1 li:before,
