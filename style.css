@@ -18,6 +18,10 @@
 	font-family: 'NEUTRAFACE2TEXT-LIGHT';
 	src: url(fuentes/NEUTRAFACE2TEXT-LIGHT.OTF) format("opentype");
 }
+@font-face {
+	font-family: 'NEUTRAFACE2TEXT-BOOKITALIC';
+	src: url(fuentes/NEUTRAFACE2TEXT-BOOKITALIC.OTF) format("opentype");
+}
 
 @font-face {
 	font-family: 'SUBROC-REGULAR';
