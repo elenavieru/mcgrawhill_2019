@@ -1427,6 +1427,7 @@ body:not(.edit) .slider-indicators {
 	vertical-align: middle;
 	height: 25px;
 	width: 25px;
+	margin-top: -15px;
 }
 
 .item-container .icon-1:before {
