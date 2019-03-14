@@ -1429,69 +1429,19 @@ body:not(.edit) .slider-indicators {
 	width: 25px;
 }
 
-.item-container .icon-clase:before {
-	background-image: url(icon_clase.png);
+.item-container .icon-1:before {
+	background-image: url(imagenes/icono_facil.png);
 }
 
-.item-container .icon-clase-rosa:before {
-	background-image: url(icon_clase_rosa.png);
+.item-container .icon-2:before {
+	background-image: url(imagenes/icono_medio.png);
 }
 
-.item-container .icon-conversation:before {
-	background-image: url(icon_conversation.png);
+.item-container .icon-3:before {
+	background-image: url(imagenes/icono_dificil.png);
 }
 
-.item-container .icon-conversation-verde:before {
-	background-image: url(icon_conversacion_verde.png);
-}
 
-.item-container .icon-conversation-azul:before {
-	background-image: url(icon_conversacion_azul.png);
-}
-
-.item-container .icon-conversation-rosa:before {
-	background-image: url(icon_conversacion_rosa.png);
-}
-
-.item-container .icon-tool:before {
-	background-image: url(icon_herramienta.png);
-}
-
-.item-container .icon-tool-verde:before {
-	background-image: url(icon_herramienta_verde.png);
-}
-
-.item-container .icon-tool-azul:before {
-	background-image: url(icon_herramienta_azul.png);
-}
-
-.item-container .icon-tool-rosa:before {
-	background-image: url(icon_herramienta_rosa.png);
-}
-
-.item-container .icon-llave:before {
-	background-image: url(icon_llave.png);
-}
-
-.item-container .icon-raton:before {
-	background-image: url(icon_raton.png);
-}
-
-.item-container .icon-museo:before {
-	background-image: url(icon_museo.png);
-}
-
-.item-container .icon-talento:before {
-	background-image: url(icon_talento.png);
-}
-
-.item-container .icon-talento-2:before {
-	background-image: url(icon_talento-2.png);
-}
-
-.item-container .icon-talento-verde:before {
-	background-image: url(icon_talento_verde.png);
-}
 
 /**Iconos con número**/
 .item-container .icono {
