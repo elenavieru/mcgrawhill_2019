@@ -53,12 +53,11 @@
 
 				{ name: 'Desplegable 1', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown bck-dropdown-1' } },
 				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown bck-dropdown-2' } },
-			
-				{ name: 'Icono Pegar', element: 'span', attributes: { 'class': 'icon icon-pegar' } },
-				{ name: 'Icono Unir Lápiz', element: 'span', attributes: { 'class': 'icon icon-unir' } },
-				{ name: 'Icono Actuar', element: 'span', attributes: { 'class': 'icon icon-actuar' } },
-				{ name: 'Icono Dibujar', element: 'span', attributes: { 'class': 'icon icon-dibujar' } },
-				{ name: 'Icono Cantar', element: 'span', attributes: { 'class': 'icon icon-cantar' } }
+
+				
+				{ name: 'Icono Fácil', element: 'span', attributes: { 'class': 'icon icon-1' } },
+				{ name: 'Icono Medio', element: 'span', attributes: { 'class': 'icon icon-2' } },
+				{ name: 'Icono Difícil', element: 'span', attributes: { 'class': 'icon icon-3' } }
 			
 			
 			]
