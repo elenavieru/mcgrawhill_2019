@@ -52,7 +52,15 @@
 				{ name: 'Enlace web', element: 'a', attributes: { 'class': 'bck-link'} },
 
 				{ name: 'Desplegable 1', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown bck-dropdown-1' } },
-				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown bck-dropdown-2' } }
+				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown bck-dropdown-2' } },
+			
+				{ name: 'Icono Pegar', element: 'span', attributes: { 'class': 'icon icon-pegar' } },
+				{ name: 'Icono Unir Lápiz', element: 'span', attributes: { 'class': 'icon icon-unir' } },
+				{ name: 'Icono Actuar', element: 'span', attributes: { 'class': 'icon icon-actuar' } },
+				{ name: 'Icono Dibujar', element: 'span', attributes: { 'class': 'icon icon-dibujar' } },
+				{ name: 'Icono Cantar', element: 'span', attributes: { 'class': 'icon icon-cantar' } }
+			
+			
 			]
 		},
 		slidesTitle: {},
