@@ -770,16 +770,16 @@ body:not(.edit) .slider-indicators {
 #actividad .content .texto_curso .bck-ul-2 li:before,
 #actividad .content .workspace ul li .bck-ul-2 li:before ,
 #actividad .popover-background.shown .popover-content > ul > li:before{
-	content: '\f192';
+	content: '—';
     position: absolute;
-    top: initial;
-    left: 15px;
+    top: -4px;
+    left: 10px;
 	height: 6px;
     width: 6px;
     background-color: transparent;
 	font-family: 'FontAwesome';
 	margin: 2px 5px 0 5px;
-	color: #9ac61e;
+	color: #333;
 	-webkit-border-radius: 50%;
 	   -moz-border-radius: 50%;
 	        border-radius: 50%;
