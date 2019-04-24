@@ -623,19 +623,11 @@ body:not(.edit) .slider-indicators {
 
 
 .bck-title-6{
-	background: rgba(2,160,227,1);
-	background: -moz-radial-gradient(center, ellipse cover, rgba(2,160,227,1) 0%, rgba(2,160,227,1) 45%, rgba(0,144,205,1) 80%, rgba(0,144,205,1) 100%);
-	background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(2,160,227,1)), color-stop(45%, rgba(2,160,227,1)), color-stop(80%, rgba(0,144,205,1)), color-stop(100%, rgba(0,144,205,1)));
-	background: -webkit-radial-gradient(center, ellipse cover, rgba(2,160,227,1) 0%, rgba(2,160,227,1) 45%, rgba(0,144,205,1) 80%, rgba(0,144,205,1) 100%);
-	background: -o-radial-gradient(center, ellipse cover, rgba(2,160,227,1) 0%, rgba(2,160,227,1) 45%, rgba(0,144,205,1) 80%, rgba(0,144,205,1) 100%);
-	background: -ms-radial-gradient(center, ellipse cover, rgba(2,160,227,1) 0%, rgba(2,160,227,1) 45%, rgba(0,144,205,1) 80%, rgba(0,144,205,1) 100%);
-	background: radial-gradient(ellipse at center, rgba(2,160,227,1) 0%, rgba(2,160,227,1) 45%, rgba(0,144,205,1) 80%, rgba(0,144,205,1) 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#02a0e3', endColorstr='#0090cd', GradientType=1 );
     padding: 15px 15px 5px 10px;
     width: fit-content;
     font-family: 'SUBROC-REGULAR';
     font-size: 6rem;
-    color: #A3DBF7;
+    color: #0093CD;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
 }
