@@ -880,13 +880,13 @@ body:not(.edit) .slider-indicators {
 #actividad .content .texto_curso .bck-ol-4 li:before,
 #actividad .popover-content .bck-ol-4 li:before,
 #actividad .content .workspace ul li .bck-ol-4 li:before {
-	content: counter(bck-li-counter);
+	content: counter(bck-li-counter) ".";
 	position: absolute;
 	left: -25px;
 	width: 20px;
 	text-align: right;
 	color: #753E29;
-    font-size: 2.5rem;
+    font-size: 2.3rem;
     font-family: 'NEUTRAFACE2TEXT-BOLD';
     font-weight: normal;
     top: -2px;
