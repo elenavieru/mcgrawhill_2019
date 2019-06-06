@@ -924,6 +924,30 @@ body:not(.edit) .slider-indicators {
 	width: 25px;
 }
 
+/*LISTA ORDENADA 6*/
+
+#actividad .content .texto_curso .bck-ol-6 li:before,
+#actividad .popover-content .bck-ol-6 li:before,
+#actividad .content .workspace ul li .bck-ol-6 li:before {
+	content: counter(bck-li-counter) ".";
+	position: absolute;
+	left: -25px;
+	width: 20px;
+	text-align: right;
+	color: #0C406A;
+    font-size: 2.3rem;
+    font-family: 'NEUTRAFACE2TEXT-BOLD';
+    font-weight: normal;
+    top: -2px;
+}
+
+#actividad .content .texto_curso .bck-ol-6 li:before,
+#actividad .popover-content .bck-ol-6 li:before,
+#actividad .content .workspace ul li .bck-ol-6 li:before {
+	top: -2px;
+	left: -30px;
+	width: 25px;
+}
 
 /*BOXES*/
 
