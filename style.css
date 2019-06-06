@@ -944,9 +944,9 @@ body:not(.edit) .slider-indicators {
 #actividad .content .texto_curso .bck-ol-6 li:before,
 #actividad .popover-content .bck-ol-6 li:before,
 #actividad .content .workspace ul li .bck-ol-6 li:before {
-	top: -2px;
-	left: -30px;
-	width: 25px;
+    top: -2px;
+    left: -35px;
+    width: 30px;
 }
 
 /*BOXES*/
