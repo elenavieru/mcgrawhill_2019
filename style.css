@@ -919,7 +919,7 @@ body:not(.edit) .slider-indicators {
 #actividad .content .texto_curso .bck-ol-5 li:before,
 #actividad .popover-content .bck-ol-5 li:before,
 #actividad .content .workspace ul li .bck-ol-5 li:before {
-	top: 1px;
+	top: -2px;
 	left: -30px;
 	width: 25px;
 }
