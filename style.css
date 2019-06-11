@@ -1168,11 +1168,11 @@ body:not(.edit) .slider-indicators {
 }
 
 .bck-box.bck-box-5 .bck-title:before{
-	content: " ";
-    position: relative;
-    padding: 15px 90px;
-    left: 42%;
-    top: 45px;
+    content: " ";
+    position: absolute;
+    padding: 15px 93px;
+    right: 0%;
+    top: 11px;
     z-index: 999;
     background-image: url(imagenes/img_colores.png);
     background-repeat: no-repeat;
